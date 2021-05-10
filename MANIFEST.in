@@ -3,6 +3,8 @@ include mmedit/VERSION
 include mmedit/model_zoo.yml
 include mmedit/configs/*/*.py
 include mmedit/configs/*/*.yml
+include mmedit/configs/*/*/*.py
+include mmedit/configs/*/*/*.yml
 include mmedit/tools/*.py
 include mmedit/tools/*.sh
 include mmedit/tools/*/*.py
